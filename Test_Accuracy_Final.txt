@@ -44,3 +44,8 @@ Data Augmentation 2:
 Augmented		71.92000150680542
 Batch Size 128: 8.5 Min
 
+Varying Channels:
+32 Initial Channels		70.56000232696533
+64 Initial Channels		74.5199978351593
+128 Initial Channels		77.06000208854675
+
