@@ -1,0 +1,44 @@
+Baseline ResNet Model:
+Baseline	73.7600028514862
+
+Varying Residual Layers:
+One Residual Layer		70.57999968528748
+Two Residual Layers		74.1599977016449
+Three Residual Layers		75.66999793052673
+
+Varying Blocks Per Residual Layers:
+One Block Per Layer		72.42000102996826
+Two Blocks Per Layer		74.47999715805054
+Three Blocks Per Layer		75.5299985408783
+Four Blocks Per Layer		75.98999738693237
+
+Varying Convolutional Kernel Size:
+3x3		74.94000196456909
+5x5		76.39999985694885
+
+Varying Skip Kernel Size:
+1x1		74.00000095367432
+3x3		74.62999820709229
+5x5		75.47000050544739
+
+Varying Pool Kernel Size:
+2x2 Avg Pool		75.15000104904175
+4x4 Avg Pool		75.91000199317932
+8x8 Avg Pool		76.38000249862671
+
+Varying Dropout Layer Percentage:
+0%		75.19999742507935
+10%		78.4600019454956
+25%		77.46999859809875
+35%		77.60000228881836
+
+SGD Vs. Adam:
+SGD		74.34999942779541
+Adam		79.55999970436096
+
+Data Augmentation:
+Augmented		76.60999894142151
+
+Data Augmentation 2:
+Augmented		71.92000150680542
+
