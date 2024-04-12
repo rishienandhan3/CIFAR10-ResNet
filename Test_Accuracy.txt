@@ -1,1 +1,16 @@
-Baseline ResNet Model:Baseline73.51999878883362
+Baseline ResNet Model:
+Baseline    73.76999855041504
+
+Varying Residual Layers:
+One Residual Layer	69.59999799728394
+Two Residual Layers	74.22999739646912
+Three Residual Layers	71.59000039100647
+
+
+
+Varying Blocks Per Residual Layers:
+One Block Per Layer	72.35000133514404
+Two Blocks Per Layer	74.47999715805054
+Three Blocks Per Layer	75.52000284194946
+Four Blocks Per Layer	75.98999738693237
+
