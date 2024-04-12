@@ -38,7 +38,9 @@ Adam		79.55999970436096
 
 Data Augmentation:
 Augmented		76.60999894142151
+Batch Size 64: 9.5 Min
 
 Data Augmentation 2:
 Augmented		71.92000150680542
+Batch Size 128: 8.5 Min
 
