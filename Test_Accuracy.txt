@@ -1,0 +1,1 @@
+Baseline ResNet Model:Baseline73.51999878883362
