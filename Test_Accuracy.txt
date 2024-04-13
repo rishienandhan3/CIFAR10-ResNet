@@ -47,3 +47,8 @@ Augmented	68.27999949455261
 Data Augmentation 2:
 Augmented	71.90999984741211
 
+Varying Number of Residual Layers:
+One Residual Layer	71.35000228881836
+Two Residual Layers	78.57999801635742
+Three Residual Layers	80.5400013923645
+
